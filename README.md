@@ -24,11 +24,11 @@
 
 ###
 
-<h1 align="center">Welcome to my profile!</h1>
+<h1 align="center">Bem Vindos ao meu perfil!</h1>
 
 ###
 
-<h3 align="left">👩‍💻  About Me</h3>
+<h3 align="left">👩‍💻  Sobre Mim</h3>
 
 ###
 
@@ -36,7 +36,7 @@
 
 ###
 
-<h3 align="left">🛠 Language and tools</h3>
+<h3 align="left">🛠 Linguagem e Ferramentas</h3>
 
 ###
 
