@@ -24,7 +24,7 @@
 
 ###
 
-<h1 align="center">Bem Vindos ao meu perfil!</h1>
+<h1 align="center">Bem-vindos ao meu perfil!</h1>
 
 ###
 
