@@ -32,7 +32,7 @@
 
 ###
 
-<p align="left">Meu nome é Maria Vitória, eu sou estudante de Análise e Desenvolvimento de Sistemas e criadora de jogos no Roblox, utilizando linguagem LUA! Apaixonada por tecnologia e busco aprimorar minhas habilidades em programação</p>
+<p align="left">Meu nome é Maria Vitória, eu sou estudante de Análise e Desenvolvimento de Sistemas e criadora de jogos no Roblox utilizando linguagem LUA! Apaixonada por tecnologia e busco aprimorar minhas habilidades em programação</p>
 
 ###
 
