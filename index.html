@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Inscrição para Sala de Bate-papo</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+    <div class="chat-form-container">
+        <h2>Entrar na Sala de Bate-papo</h2>
+        <form id="chatForm">
+            <div class="form-group">
+                <label for="url">URL do Servidor:</label>
+                <input type="text" id="url" name="url" placeholder="Ex: ws://servidor.com:8080" required>
+            </div>
+
+            <div class="form-group">
+                <label for="email">E-mail:</label>
+                <input type="email" id="email" name="email" placeholder="seuemail@exemplo.com" required>
+            </div>
+
+            <div class="form-group">
+                <label for="nickname">Nickname:</label>
+                <input type="text" id="nickname" name="nickname" placeholder="Seu apelido" required>
+            </div>
+
+            <button type="submit" id="enterBtn">Entrar</button>
+        </form>
+    </div>
+
+    <script src="script.js"></script>
+
+</body>
+</html>
